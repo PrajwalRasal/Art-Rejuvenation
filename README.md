@@ -108,6 +108,5 @@ Art Rejuvenation is a web-based application that allows users to perform image R
 
 ---
 
-## Contributors
 
-- **Prithviraj Ghorpade** & **Harshal Ghugal**.
+
